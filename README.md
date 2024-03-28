@@ -1,1 +1,1 @@
-# Stack-Leetcode
+# Leetcode
